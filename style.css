@@ -1,0 +1,36 @@
+*{scroll-behavior: smooth;
+
+}
+.adress {
+    background-color:darkgrey;
+    border-style: double;
+    font-style: normal;
+}
+
+.element{
+font-size:125%;
+}
+.main {
+  font:small-caption;
+}
+a:link {
+    text-decoration: none;
+    color: crimson;
+  }
+  .unorderedlist{
+    list-style: none
+}
+h1, h2{
+    text-align: center;
+}
+ol {
+    list-style-type:upper-roman;
+}
+dd {
+    display: none;
+}
+dt:hover + dd {
+display: block;
+color: mediumpurple;
+
+}
